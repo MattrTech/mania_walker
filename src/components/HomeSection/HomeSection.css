@@ -1,0 +1,41 @@
+.homeSection {
+    height: auto;
+}
+
+.container1
+{
+    background: url(../../images/slide1.png);
+    padding: 15% 12%;
+    background-size: cover;
+    height: 100%;
+    color: white;
+}
+
+.container1 > h1{
+    font: normal normal bold 54px/40px "Mulish";
+}
+ 
+.container1 > p {
+    font-size: 28px;
+ }
+
+ .container1 > button {
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    margin-left: 18%;
+    font-family: "Mulish", sans-serif;
+    text-transform: uppercase;
+    padding: 12px 40px;
+    border: 2px solid white;
+    /* border-radius: 10px; */
+    color: white;
+    transition: 0.3s;
+    line-height: 1;
+    background: transparent;
+ }
+ .container1 > button:hover
+ {
+    background-color: white;
+    color: black;
+ }

@@ -1,0 +1,32 @@
+.home_NavBar
+{
+    width: 100%;
+    padding: 2%;
+    height: 90px;
+}
+
+.nav_logo
+{
+    width: 80%;
+    padding: 1%;
+}
+
+.home__nav
+{
+    background-color: white;
+    padding: 1% 5%;
+    padding-right: 0;
+}
+
+.nav_link
+{
+    color: black !important;
+    font: normal normal bold 20px "Mulish";
+    font-weight: 500;
+}
+
+
+.toggle-button
+{
+    margin-top: -18% !important;
+}
